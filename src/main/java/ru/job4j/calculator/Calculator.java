@@ -1,4 +1,4 @@
-package main.java.ru.job4j.calculator;
+package ru.job4j.calculator;
 
 public class Calculator {
     public static void add(double first, double second) {
